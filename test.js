@@ -1,1 +1,1 @@
-console.log("Ankita ram ram")
+console.log("Ankita")
